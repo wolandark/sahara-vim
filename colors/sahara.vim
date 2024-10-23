@@ -781,7 +781,7 @@ hi GitGutterDeleteIntraLine guifg=#eea1b0 guibg=NONE gui=reverse cterm=reverse
 hi GitGutterDeleteInvisible guifg=#282828 guibg=NONE gui=NONE cterm=NONE
 hi Identifier guifg=#d5ad6c guibg=NONE gui=NONE cterm=NONE
 hi Ignore guifg=#eea1b0 guibg=NONE gui=NONE cterm=NONE
-hi IncSearch guifg=#cd9405 guibg=NONE gui=NONE cterm=NONE
+hi IncSearch guifg=#1e1e2e guibg=#bbbb00 gui=NONE cterm=NONE
 hi LightlineLeft_command_0 guifg=#181825 guibg=NONE gui=NONE cterm=NONE
 hi LightlineLeft_command_0_1 guifg=#89b4fa guibg=NONE gui=NONE cterm=NONE
 hi LightlineLeft_command_0_tabsel guifg=#89b4fa guibg=NONE gui=NONE cterm=NONE
@@ -1246,7 +1246,7 @@ hi PreProc guifg=#6ebaff guibg=NONE gui=NONE cterm=NONE
 hi Question guifg=#d5ad6c guibg=NONE gui=bold cterm=bold
 hi QuickFixLine guifg=#282828 guibg=NONE gui=NONE cterm=NONE
 hi Removed guifg=#ff0000 guibg=NONE gui=NONE cterm=NONE
-hi Search guifg=#cd9405 guibg=NONE gui=NONE cterm=NONE
+hi Search guifg=#1e1e2e guibg=#6dceeb gui=NONE cterm=NONE
 hi SignColumn guifg=#eea1b0 guibg=NONE gui=NONE cterm=NONE
 hi Special guifg=#ffa1ff guibg=NONE gui=NONE cterm=NONE
 hi SpecialKey guifg=#9acd32 guibg=NONE gui=NONE cterm=NONE
