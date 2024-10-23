@@ -1240,7 +1240,7 @@ hi NormalFloat guifg=#eea1b0 guibg=NONE gui=NONE cterm=NONE
 hi NormalNC guifg=#eea1b0 guibg=NONE gui=NONE cterm=NONE
 hi Pmenu guifg=#eea1b0 guibg=#595959 gui=NONE cterm=NONE
 hi PmenuSbar guifg=#eea1b0 guibg=NONE gui=NONE cterm=NONE
-hi PmenuSel guifg=#282828 guibg=NONE gui=NONE cterm=NONE
+hi PmenuSel guifg=#282828 guibg=#cd9405 gui=NONE cterm=NONE
 hi PmenuThumb guifg=#eea1b0 guibg=NONE gui=NONE cterm=NONE
 hi PreProc guifg=#6ebaff guibg=NONE gui=NONE cterm=NONE
 hi Question guifg=#d5ad6c guibg=NONE gui=bold cterm=bold
