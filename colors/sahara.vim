@@ -86,7 +86,7 @@ hi! link CocTreeTitle Title
 hi! link CocUnusedHighlight Conceal
 hi! link CocWarningHighlight CocUnderline
 hi! link Conditional Statement
-hi! link CurSearch Search
+hi! link CurSearch IncSearch
 hi! link CursorLineFold CursorLine
 hi! link CursorLineSign CursorLine
 hi! link Debug Special
@@ -3392,7 +3392,7 @@ hi! link CocTreeTitle Title
 hi! link CocUnusedHighlight Conceal
 hi! link CocWarningHighlight CocUnderline
 hi! link Conditional Statement
-hi! link CurSearch Search
+hi! link CurSearch IncSearch
 hi! link CursorLineFold CursorLine
 hi! link CursorLineSign CursorLine
 hi! link Debug Special
