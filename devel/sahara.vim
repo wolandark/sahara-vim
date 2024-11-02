@@ -1,6 +1,7 @@
 " Name:         sahara
 " Author:       Wolandark <contact-woland@proton.me>
 " Maintainer:   Wolandark <contact-woland@proton.me>
+" Original Author: Hans Fugal <hans@fugal.net>
 " License:      Vim License (see `:help license`)
 " Last Updated: Fri 01 Nov 2024 08:17:50 PM +0330
 
